@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2? family = Montserrat: wght @ 200 & display = swap');
+
+*  {
+   margin: 0;
+   padding: 0;
+    
+   
+   }
+
+ body {
+ background-color: rgb(206, 199, 199);
+ 
+
+}
+
+
+main{
+ align-content: center;
+  
+ }
+ 
+
+.caja-padre {
+ width: 1300px;
+ height: 25px;
+ display: flex;
+ flex-flow: row wrap ;
+ align-content: center;
+ margin: 350px;
+ 
+
+
+   
+   }
+
+   .caja {
+    width: 270px;
+    flex-wrap: wrap;
+    margin: 30px;
+    padding: 11px;
+    background-color: rgb(234, 230, 235);
+   
+   
+}
+
+
+p {
+    font-size: 18px;
+    align-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;   
+    margin-top: 18px;
+}
+
+
+.titulo 
+{
+ background-image:  url(../imagenes/titulo.jpg);
+ background-repeat: no-repeat;
+ width: 600px;
+ height: 120px;
+    margin-left: 615px;
+    margin-top: 15px;
+    align-items: center;
+   
+  
+  
+  }
+
+
+  .parrafo1 
+  {
+  
+   width: 1000px;
+   margin-bottom: -20px;
+      margin-left: 370px;
+     
+      align-items: center;
+     
+    
+    
+    }
+
+
+
+h1 {
+    font-size: 50px;
+    font-family: Montserrat, Helvetica, sans-serif;  
+    color: grey;
+     font-weight: 900px;
+    text-align: center;
+  }
+  
+  
+  h3 {
+      font-size: 100px;
+      font-family: Montserrat, Helvetica, sans-serif;  
+       font-weight: 900px;
+       color: rgb(51, 50, 50);
+    }
+
+
+
+
+    img {
+        width: 270px;
+        height: 220px;
+       align-content: center;
+      }
+
+      figcaption 
+
+      {
+        font-size: 22px;
+        color: rgb(43, 42, 42);
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    letter-spacing: -2px;
+      }
+  
+      #margarita
+      {
+        width: 44px;
+     height: 20px;
+     margin-right: -20px;
+     margin-left: -10px;
+     margin-bottom: -5px;
+      }
+  
